@@ -1,2 +1,1 @@
-# http://weneedmorecoffee.cf 
-sergey1savchenko.github.io
+# sergey1savchenko.github.io 
